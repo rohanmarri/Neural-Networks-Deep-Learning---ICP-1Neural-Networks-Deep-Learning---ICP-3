@@ -5,5 +5,4 @@ Student Id: 700741375
 CRN: 22280                                                                                                         
 
 Here is the link to the video : 
-Here is the link to the description document : https://github.com/rohanmarri/Neural-Networks-Deep-Learning---ICP-1Neural-Networks-Deep-Learning---ICP-3
-
+Here is the link to the description document : https://docs.google.com/document/d/1qLcsT0kGGdfqsiE3raN9hOTW06KDNK_i/edit?usp=sharing&ouid=105504848771921479066&rtpof=true&sd=true
